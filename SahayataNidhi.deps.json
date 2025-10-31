@@ -53,7 +53,7 @@
           "Pkcs11Interop": "5.1.2",
           "SSH.NET": "2024.1.0",
           "System.Drawing.Common": "7.0.0",
-          "UAParser": "3.1.47",
+          "UAParser.Core": "4.0.5",
           "Wangkanai.Detection": "8.20.0",
           "itext.bouncy-castle-fips-adapter": "8.0.5",
           "itext7": "8.0.5",
@@ -3657,9 +3657,9 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "UAParser/3.1.47": {
+      "UAParser.Core/4.0.5": {
         "compile": {
-          "lib/netcoreapp2.0/UAParser.dll": {}
+          "lib/net9.0/UAParser.Core.dll": {}
         }
       },
       "Wangkanai.Detection/8.20.0": {
@@ -3713,7 +3713,7 @@
           "Pkcs11Interop": "5.1.2",
           "SSH.NET": "2024.1.0",
           "System.Drawing.Common": "7.0.0",
-          "UAParser": "3.1.47",
+          "UAParser.Core": "4.0.5",
           "Wangkanai.Detection": "8.20.0",
           "itext.bouncy-castle-fips-adapter": "8.0.5",
           "itext7": "8.0.5",
@@ -6310,11 +6310,11 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "UAParser/3.1.47": {
+      "UAParser.Core/4.0.5": {
         "runtime": {
-          "lib/netcoreapp2.0/UAParser.dll": {
-            "assemblyVersion": "3.1.47.0",
-            "fileVersion": "3.1.47.0"
+          "lib/net9.0/UAParser.Core.dll": {
+            "assemblyVersion": "4.0.5.0",
+            "fileVersion": "4.0.5.0"
           }
         }
       },
@@ -8035,12 +8035,12 @@
       "path": "system.xml.xmldocument/4.3.0",
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
-    "UAParser/3.1.47": {
+    "UAParser.Core/4.0.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-I68Jl/Vs5RQZdz9BbmYtnXgujg0jVd61LhKbyNZOCm9lBxZFGxLbiQo6yFj21VYi7DzPvEvrVOmeC6v41AoLfw==",
-      "path": "uaparser/3.1.47",
-      "hashPath": "uaparser.3.1.47.nupkg.sha512"
+      "sha512": "sha512-K/XWYlP6jIJEU2CAwUh6tzbdFr1iVrdRgZUMP3brLhwWv9HxLC2vZY0YGQqzDmIbeKmMHw3KcbZnlqOdapZqag==",
+      "path": "uaparser.core/4.0.5",
+      "hashPath": "uaparser.core.4.0.5.nupkg.sha512"
     },
     "Wangkanai.Detection/8.20.0": {
       "type": "package",
